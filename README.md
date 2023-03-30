@@ -26,5 +26,5 @@
  
 </div>
  
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=hannahmusta1&repo=hannahmustafa1&theme=react)](https://github.com/hannahmustafa1/hannahmustafa1)
+
 
