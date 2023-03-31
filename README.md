@@ -24,9 +24,9 @@
 
  <div align="center">
 
-  <a href = "mailto:hannahmustafa128@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%ED254E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hannahmustafa128@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%8902E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="Link whatsapp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="Link whatsapp" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%ED254E?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
 
