@@ -19,7 +19,7 @@
   <img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Formando-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Formando-Vue.js" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-hgorm&psig=AOvVaw0fKVAt1_8RK1s-cihBrEa6&ust=1698175017269000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi9mofxjIIDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Formando-Vue.js" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fvuejs-templates&psig=AOvVaw0fKVAt1_8RK1s-cihBrEa6&ust=1698175017269000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi9mofxjIIDFQAAAAAdAAAAABAO">
   
 </div>
  </div>
